@@ -1,5 +1,4 @@
 # LEO-Spacecraft-ElectricalPowerSystem-Simulation
-# MATLAB-Based LEO Spacecraft Electrical Power System Simulator
 
 A MATLAB simulation of the electrical power system (EPS) of a spacecraft in circular Low Earth Orbit, from orbit geometry and solar-array power to battery behaviour and a nonlinear state-of-charge (SoC) protection controller.
 

@@ -15,7 +15,7 @@ A MATLAB simulation of the electrical power system (EPS) of a spacecraft in circ
 ## Key results
 | Study | Result |
 |---|---|
-| EOL sizing sweep | Minimum feasible array about 3.97 m2 and battery about 632 Wh |
+| EOL sizing sweep | Minimum feasible array about 3.97 m^2 and battery about 632 Wh |
 | Integrated baseline | Min SoC 75.9%, 0 Wh unserved, energy accounting passed |
 | High-load stress case | Min SoC 20%, 82.2 Wh unserved |
 | Low-capacity battery case | Min SoC 20%, 77.8 Wh unserved |
@@ -35,7 +35,7 @@ A MATLAB simulation of the electrical power system (EPS) of a spacecraft in circ
 ## Scripts (src/)
 | Script | Purpose |
 |---|---|
-| day_1_spc_electriclaps_simulation.m | Orbit basics |
+| day_1_spc_orbit_basics.m | Orbit basics |
 | day_2_orbital_timeline.m | Sunlight/eclipse timeline |
 | day_3_solar_array_model.m | Solar-array power model |
 | day_4_battery_model.m | Battery SoC model |

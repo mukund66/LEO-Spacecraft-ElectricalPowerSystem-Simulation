@@ -34,7 +34,7 @@ A MATLAB simulation of the electrical power system (EPS) of a spacecraft in circ
 ## Scripts (src/)
 | Script | Purpose |
 |---|---|
-| orbit_basics.m | Orbit basics |
+| orbital_basics.m | Orbit basics |
 | orbital_timeline.m | Sunlight/eclipse timeline |
 | solar_array_model.m | Solar-array power model |
 | battery_model.m | Battery SoC model |

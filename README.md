@@ -34,16 +34,16 @@ A MATLAB simulation of the electrical power system (EPS) of a spacecraft in circ
 ## Scripts (src/)
 | Script | Purpose |
 |---|---|
-| day_1_spc_orbit_basics.m | Orbit basics |
-| day_2_orbital_timeline.m | Sunlight/eclipse timeline |
-| day_3_solar_array_model.m | Solar-array power model |
-| day_4_battery_model.m | Battery SoC model |
-| day_5_degradation_comparison.m | BOL vs EOL comparison |
-| day6_eps_sizing_analysis.m | Array/battery sizing sensitivity |
-| day7_dynamic_load_simulation.m | Operational modes and dynamic load |
-| day8_beta_angle_eclipse_analysis.m | Beta-angle eclipse analysis |
-| day9_integrated_eps_simulator.m | Integrated EPS simulator, 3 scenarios |
-| day_9_5_soc_hysteresis_control.m | SoC hysteresis load-shedding controller |
+| orbit_basics.m | Orbit basics |
+| orbital_timeline.m | Sunlight/eclipse timeline |
+| solar_array_model.m | Solar-array power model |
+| battery_model.m | Battery SoC model |
+| degradation_comparison.m | BOL vs EOL comparison |
+| eps_sizing_analysis.m | Array/battery sizing sensitivity |
+| dynamic_load_simulation.m | Operational modes and dynamic load |
+| beta_angle_eclipse_analysis.m | Beta-angle eclipse analysis |
+| integrated_eps_simulator.m | Integrated EPS simulator, 3 scenarios |
+| soc_hysteresis_control.m | SoC hysteresis load-shedding controller |
 
 ## How to run
 Open MATLAB, set the repository folder as the current folder, and run the scripts in `src/` in order. Each script writes its plots to `results/`.

@@ -23,13 +23,13 @@ A MATLAB simulation of the electrical power system (EPS) of a spacecraft in circ
 ## Selected plots
 
 
-![Open loop vs controlled SoC](results/day9_5_open_loop_vs_controlled_soc.png)
+![Open loop vs controlled SoC](results/open_loop_vs_controlled_soc.png)
 
-![Controller operation](results/day9_5_controller_operation.png)
+![Controller operation](results/controller_operation.png)
 
-![Eclipse vs beta angle](results/day8_eclipse_vs_beta.png)
+![Eclipse vs beta angle](results/eclipse_vs_beta.png)
 
-![Scenario battery comparison](results/day9_scenario_battery_comparison.png)
+![Scenario battery comparison](results/scenario_battery_comparison.png)
 
 ## Scripts (src/)
 | Script | Purpose |
